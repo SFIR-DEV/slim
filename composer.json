@@ -1,0 +1,21 @@
+{
+    "name": "cp26/dwwm4",
+    "autoload": {
+        "psr-4": {
+            "Cp26\\Dwwm4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antony C.",
+            "email": "antony@oktopod.io"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.12",
+        "slim/psr7": "^1.6",
+        "slim/twig-view": "^3.3",
+        "twig/twig": "^3.8",
+        "php-di/php-di": "^7.0"
+    }
+}
